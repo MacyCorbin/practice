@@ -86,9 +86,9 @@ class Saved extends Component {
                   </a>
                   <p>Written By {book.author}</p>
                   <p>
-                  <img align="left" style={{paddingRight:10}}
-                    src={book.image} alt="new"
-                  />
+                    <img align="left" style={{ paddingRight: 10 }}
+                      src={book.image} alt="new"
+                    />
                     {book.description}
                   </p>
                 </div>
